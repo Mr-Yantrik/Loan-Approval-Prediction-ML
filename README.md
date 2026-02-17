@@ -98,13 +98,16 @@ Feature importance analysis revealed that CIBIL score is the most influential pr
 
 This reflects real-world financial decision systems where credit score plays a critical role in loan approvals.
 
+![Feature Importance](src/feature_importance.png)
+
+
 ---
 
 ## Confusion Matrix
 
 The confusion matrix shows minimal misclassification between approved and rejected loan applications.
 
-(Insert confusion matrix screenshot inside repository if available.)
+![Confusion Matrix](src/confusion_matrix.png)
 
 ---
 
@@ -142,7 +145,8 @@ loan-approval-ml/
 
 Clone the repository:
 
-git clone <your-repository-link>
+git clone <https://github.com/Mr-Yantrik/Loan-Approval-Prediction-ML>
+
 cd loan-approval-ml
 
 Install dependencies:
