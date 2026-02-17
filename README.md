@@ -98,8 +98,7 @@ Feature importance analysis revealed that CIBIL score is the most influential pr
 
 This reflects real-world financial decision systems where credit score plays a critical role in loan approvals.
 
-
-![Feature Importance](images/feature_importance.png) 
+![Feature Importance](images/feature_importance.png)
 
 
 ---
@@ -108,7 +107,7 @@ This reflects real-world financial decision systems where credit score plays a c
 
 The confusion matrix shows minimal misclassification between approved and rejected loan applications.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](src/confusion_matrix.png)
 
 ---
 
