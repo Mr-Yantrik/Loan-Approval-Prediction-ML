@@ -98,7 +98,7 @@ Feature importance analysis revealed that CIBIL score is the most influential pr
 
 This reflects real-world financial decision systems where credit score plays a critical role in loan approvals.
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](src/feature_importance.png)
 
 
 ---
