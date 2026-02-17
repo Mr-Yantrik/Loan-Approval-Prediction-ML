@@ -146,6 +146,7 @@ loan-approval-ml/
 Clone the repository:
 
 git clone <https://github.com/Mr-Yantrik/Loan-Approval-Prediction-ML>
+
 cd loan-approval-ml
 
 Install dependencies:
